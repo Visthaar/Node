@@ -1,1 +1,20 @@
-
+{
+  "name": "Visthaar-Node",
+  "description": "Node-Relay- info exchange for Visthaar",
+  "version": "0.1.1",
+  "keywords": [
+    "Visthaar,relay,burningsoul,RTC,websocket,socketio,nodejs"
+  ],
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/Visthaar/Node.git"
+},
+  "author": "Aaryadev/Burningsoul",
+    "dependencies": {
+        "socket.io": "~1.0.6",
+        "node-static"   : "~0.7.7"
+    },
+    "engines": {
+        "node": "0.10.x"
+    }
+}
